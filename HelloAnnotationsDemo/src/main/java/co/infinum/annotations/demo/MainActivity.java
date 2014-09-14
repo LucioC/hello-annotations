@@ -14,6 +14,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 import co.infinum.annotations.Hello;
+import co.infinum.annotations.generated.HelloAnnotations;
 
 @Hello
 public class MainActivity extends ActionBarActivity {
@@ -35,10 +36,12 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void showAnnotationMessage() {
-        Object helloAnnotations = null;
+        //Object helloAnnotations = null;
         try {
-            helloAnnotations = Class.forName("co.infinum.annotations.generated.HelloAnnotations").newInstance();
-            String message = (String)invoke(helloAnnotations, "getMessage");
+            HelloAnnotations helloAnnotations = new HelloAnnotations();
+            //helloAnnotations = Class.forName("co.infinum.annotations.generated.HelloAnnotations").newInstance();
+            //String message = (String)invoke(helloAnnotations, "getMessage");
+            String message = helloAnnotations.getMessage();
 
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle("Message");

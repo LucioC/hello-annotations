@@ -28,6 +28,9 @@ import javax.annotation.processing.SupportedSourceVersion;
 @SupportedSourceVersion(SourceVersion.RELEASE_7)
 public class HelloProcessor extends AbstractProcessor {
 
+    public HelloProcessor() {
+    }
+
     @Override
     public boolean process(Set<? extends TypeElement> annotations, RoundEnvironment roundEnv) {
 

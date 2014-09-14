@@ -6,7 +6,7 @@
         jar="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/exploded-aar/hello-annotations/HelloAnnotationsAPI/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="6c3ecd2d18aa63e2af480b97e06c04390b6d846b"/>
+        sha1="e4f7f7b6d54fcf407d30fe500e8400f589ffc16b"/>
     <item
         dex="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/pre-dexed/debug/classes-ba1c69e7b081fe5e98f3c2323043409d8d5c0790.jar"
         jar="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"

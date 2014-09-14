@@ -6,7 +6,7 @@
         jar="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/exploded-aar/hello-annotations/HelloAnnotationsAPI/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="f3160cc8618988f79dfb27900a925171aed81dfb"/>
+        sha1="6c3ecd2d18aa63e2af480b97e06c04390b6d846b"/>
     <item
         dex="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/pre-dexed/debug/classes-ba1c69e7b081fe5e98f3c2323043409d8d5c0790.jar"
         jar="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
@@ -14,17 +14,17 @@
         revision="19.1.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
     <item
-        dex="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-dd6a8fa0d213db8f6242ddd1a1723e685da85787.jar"
-        jar="/home/lucioc/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
-    <item
         dex="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/pre-dexed/debug/classes-c427ba49ec13ab6b60bb20a97f2b5ba0db26bdeb.jar"
         jar="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-dd6a8fa0d213db8f6242ddd1a1723e685da85787.jar"
+        jar="/home/lucioc/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
     <item
         dex="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-73d23ffd9d0573e687832a5ef57e58695b5bdedf.jar"
         jar="/home/lucioc/projects/hello-annotations/HelloAnnotationsDemo/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
